@@ -1,5 +1,5 @@
 import './App.css';
-import Box from " ./compo/Box"
+import Box from './compo/Box'
 
 function App() {
   return (
